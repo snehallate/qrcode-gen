@@ -1,5 +1,5 @@
 # QR Code Generator
-Repository Link:
+Repository Link: https://github.com/snehallate/qrcode-gen
 A simple and responsive **QR Code Generator** built using **React.js**.
 This application allows users to generate QR codes instantly for any text or URL, customize the background color, adjust QR code dimensions, and download the generated QR code image.
 
